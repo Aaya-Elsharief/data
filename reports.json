@@ -1,4 +1,6 @@
-[{"id":1,"description":"unleash interactive solutions","student_id":1,"class_id":1},
+
+[
+{"id":1,"description":"unleash interactive solutions","student_id":1,"class_id":1},
 {"id":2,"description":"brand transparent synergies","student_id":2,"class_id":2},
 {"id":3,"description":"exploit scalable technologies","student_id":3,"class_id":3},
 {"id":4,"description":"evolve back-end technologies","student_id":4,"class_id":4},
@@ -27,4 +29,5 @@
 {"id":27,"description":"morph distributed architectures","student_id":27,"class_id":27},
 {"id":28,"description":"orchestrate rich networks","student_id":28,"class_id":28},
 {"id":29,"description":"brand revolutionary platforms","student_id":29,"class_id":29},
-{"id":30,"description":"productize next-generation action-items","student_id":30,"class_id":30}]
+{"id":30,"description":"productize next-generation action-items","student_id":30,"class_id":30}
+]
